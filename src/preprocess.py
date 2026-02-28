@@ -1,3 +1,7 @@
+"""
+Preprocessing utilities for Parkinson symptom dataset.
+Includes missing value handling, scaling, and train-test split.
+"""
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
