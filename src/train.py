@@ -1,4 +1,5 @@
 # src/train.py
+# RandomForest training with fixed random seed for reproducibility
 
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
