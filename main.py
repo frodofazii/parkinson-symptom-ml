@@ -1,3 +1,4 @@
+# Entry point: runs preprocessing, training, and evaluation pipeline
 from src.train import train_model
 
 if __name__ == "__main__":
